@@ -9,11 +9,7 @@ No projeto, os MUAs (abreviação para a expressão Make Up Artist, que em portu
 
 ## 🚀 Execução 
 
+```gcc -pthread -o glowup glowup.c
 ```
-gcc -pthread -o glowup glowup.c
-
-```
-```
-./glowup   
-
+```./glowup   
 ```
