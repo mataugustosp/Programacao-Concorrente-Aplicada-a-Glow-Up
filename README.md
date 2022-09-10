@@ -1,2 +1,2 @@
-# Trabalho-Programa-o-Concorrente-
+# Trabalho-Programcao-Concorrente
 Trabalho final da disciplina de programação concorrente Universidade de Brasília 
